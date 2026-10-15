@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "HCG-SelectiveECG: Human-Certainty-Guided Selective ECG Classification"
+authors:
+  - family-names: "Marca"
+    given-names: "Ronald"
+  - family-names: "Mendoza"
+    given-names: "Joaquin"
+  - family-names: "Muñoz"
+    given-names: "Alexandra"
+preferred-citation:
+  type: conference-paper
+  title: "Clasificación Selectiva de ECG Guiada por Certeza Humana: Uso de los Likelihoods Diagnósticos de PTB-XL para Derivación a Revisión Médica"
+  authors:
+    - family-names: "Marca"
+      given-names: "Ronald"
+    - family-names: "Mendoza"
+      given-names: "Joaquin"
+    - family-names: "Muñoz"
+      given-names: "Alexandra"
+  conference:
+    name: "IV Congreso Internacional de Investigación en Ingeniería (CINVIE)"
+  year: 2026

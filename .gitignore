@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+out/
+*.egg-info/
+.DS_Store
+Thumbs.db
